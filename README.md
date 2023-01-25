@@ -8,9 +8,9 @@
 ---
 
 ### About Me :
-- Regularmente codeo siempre.
-- Me puedes contactar por aqui **john.davis.2015.03@gmail.com**
-- Actualmente estoy aprendiendo **TypeScript, Desarrollo Backend, Nextjs**
+- If you can imagine it, you can program it
+- You can contact me here **john.davis.2015.03@gmail.com**
+- I am currently learning **TypeScript, Desarrollo Backend, Nextjs**
 - Website [https://github.com/johnpablo7](https://github.com/johnpablo7)
 
 <div align="left">
