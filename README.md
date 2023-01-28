@@ -1,20 +1,20 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gIqbGIaPf6hHHXDPXa/giphy.gif" width="200"/>
-  <h1 align="center">Hi 👋, I'm a Desarrollador Front-End 💻</h1>
-  <h3 align="'center">I really like creating and designing web projects with React and Tailwindcss, focused on the      development of a clear and robust code to meet the needs of the client, my goal is to specialize in being a Full Stack developer with the MERN stack and development in React Native for mobile devices.
+  <h1 align="center">Hola 👋, Soy un Desarrollador FrontEnd Jr. 💻</h1>
+  <h3 align="'center">Soy una persona que le gusta investigar, crear y diseñar proyectos. Trabajar con React y Tailwindcss es algo que me apasiona mucho, mi objetivo es adquirir nuevas destrezas y conocimientos para formarme en un desarrollador Full Stack con la pila(MERN).
   </h3>
 </div>
 
 ---
 
 ### About Me :
-- If you can imagine it, you can program it
-- You can contact me here **john.davis.2015.03@gmail.com**
-- I am currently learning **TypeScript, Desarrollo Backend, Nextjs**
+- Si puedes imaginarlo, puedes programarlo.
+- Puede ponerse en contacto conmigo aquí **john.davis.2015.03@gmail.com**
+- Actualmente estoy aprendiendo **TypeScript, Back-End Developer, Nextjs**
 - Website [https://github.com/johnpablo7](https://github.com/johnpablo7)
 
 <div align="left">
-  <h3>Languages and Tools:</h3>
+  <h3>Idiomas y herramientas:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,7 +36,7 @@
 
 ---
 
-### My Stats:
+### Mis estadísticas:
 
 ![johnpablo7 GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpablo7&show_icons=true&theme=onedark)
 
