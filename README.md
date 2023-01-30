@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gIqbGIaPf6hHHXDPXa/giphy.gif" width="200"/>
-  <h1 align="center">Hola 👋, Soy un Desarrollador FrontEnd Jr. 💻</h1>
+  <h1 align="center">Hola 👋, Soy un Desarrollador FrontEnd 💻</h1>
   <h3 align="'center">Soy una persona que le gusta investigar, crear y diseñar proyectos. Trabajar con React y Tailwindcss es algo que me apasiona mucho, mi objetivo es adquirir nuevas destrezas y conocimientos para formarme en el desarrollador Full Stack con la pila(MERN).
   </h3>
 </div>
