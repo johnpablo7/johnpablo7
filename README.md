@@ -11,7 +11,7 @@
 - Si puedes imaginarlo, puedes programarlo.
 - Puede ponerse en contacto conmigo aquí **john.davis.2015.03@gmail.com**
 - Actualmente estoy aprendiendo **TypeScript, Back-End Developer, Nextjs**
-- Website [https://github.com/johnpablo7](https://github.com/johnpablo7)
+- Website [https://github.com/johnpablo7](https://johnpablo7.com/)
 
 <div align="left">
   <h3>Idiomas y herramientas:</h3>
